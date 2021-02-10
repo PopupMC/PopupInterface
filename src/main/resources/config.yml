@@ -1,0 +1,8 @@
+# Host and Port for the WebSocket Server to listen on
+web-socket:
+  host: "localhost"
+  port: 1290
+
+# Discord Super secret bot token
+# If this is dicovered by anybody they can hi-jack your bot on Discord
+discord-token: "Enter token here"
